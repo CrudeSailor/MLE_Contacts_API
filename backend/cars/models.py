@@ -2,7 +2,7 @@ from django.db import models
 from authentication.models import User
 
 # Create your models here.
-
+class Contracts(model.mMdels)
 # <<<<<<<<<<<<<<<<< EXAMPLE FOR STARTER CODE USE <<<<<<<<<<<<<<<<<
 
 
